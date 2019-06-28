@@ -1,11 +1,17 @@
+
+################ PG ###################
+
 Welligton - 	20 	P
-Diego - 	5 	P 	- D 5
+Diego - 	5 	P
 Jhonas - 	20 	P
-Godoi - 		CB
-Hata - 		5 	ED - 5
+Godoi - 	10	P
+Hata - 		5 	P
 Wagner - 	15 	P
 Anderson -	10	P	
 
+################ DEV ###################
+
+Diego -		5	D
 Fernando - 	10 	D
 Aldo - 		2,50 	D
 Nathanel - 	5 	D
@@ -14,3 +20,6 @@ Jefersson -	2,50 	D
 Lucas -		10 	D
 
 
+################ EU DEV ################
+
+Hata 		5	ED
